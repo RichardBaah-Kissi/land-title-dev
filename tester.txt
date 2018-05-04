@@ -1,0 +1,1 @@
+How do i design a database to store land tile documents with search capability for easy retrieval of data?
